@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+   }
+   
+   .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   }
+   
+   video {
+    width: 60%;
+    height: auto;
+   }
+   
+   #text-content {
+    margin-left: 10px;
+    width: 40%;
+    height: 100%;
+    overflow-y: auto;
+   }
